@@ -1,16 +1,6 @@
 # Animal Biography App | Local DataBase sqlite
 
-this project shows you better use of local data base and UI/UX
+This is a simply Animal Biography app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![Animal](https://user-images.githubusercontent.com/90972632/175447157-253b10d2-57e7-48c3-99a7-c227641c9281.gif)
