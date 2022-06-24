@@ -1,6 +1,6 @@
-# animal_bio_app
+# Animal Biography App | Local DataBase sqlite
 
-A new Flutter project.
+this project shows you better use of local data base and UI/UX
 
 ## Getting Started
 
